@@ -17,7 +17,7 @@ This repository contains the transcripts of online video lectures for the Operat
 │   ├── 第二部分_进程和线程      
 │   ├── 第三部分_内存管理和虚拟内存      
 │   └── 第四部分_文件系统和I_O    
-├── notes/           # AI笔记总结（来自ClaudeSonnet4.6）
+├── notes/           # AI笔记总结
 │   └──第一部分_绪论和基本概念
 ├── LICENSE
 └── README.md
