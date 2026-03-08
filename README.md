@@ -19,6 +19,7 @@ This repository contains the transcripts of online video lectures for the Operat
 │   └── 第四部分_文件系统和I_O    
 ├── notes/           # AI笔记总结（来自ClaudeSonnet4.6）
 │   └──第一部分_绪论和基本概念
+├── LICENSE
 └── README.md
 ```
 
