@@ -17,10 +17,11 @@ This repository contains the transcripts of online video lectures for the Operat
 │   ├── 第二部分_进程和线程/              （20讲）
 │   ├── 第三部分_内存管理和虚拟内存/      （10讲）
 │   └── 第四部分_文件系统和I_O/           （10讲）
-├── notes/              # AI笔记总结（40讲已完成）
+├── notes/              # AI笔记总结（50讲已完成）
 │   ├── 第一部分_绪论和基本概念/          （10讲）
 │   ├── 第二部分_进程和线程/              （20讲）
-│   └── 第三部分_内存管理和虚拟内存/      （10讲）
+│   ├── 第三部分_内存管理和虚拟内存/      （10讲）
+│   └── 第四部分_文件系统和I_O/           （10讲）
 ├── LICENSE
 └── README.md
 ```
@@ -29,7 +30,7 @@ This repository contains the transcripts of online video lectures for the Operat
 - [x] 第一部分_绪论和基本概念（10讲）
 - [x] 第二部分_进程和线程（20讲）
 - [x] 第三部分_内存管理和虚拟内存（10讲）
-- [ ] 第四部分_文件系统和I_O（10讲）
+- [x] 第四部分_文件系统和I_O（10讲）
 
 ## 💡 How to Use (如何使用)
 1. **离线学习**：你可以克隆本仓库到本地，使用 Obsidian、Typora 等 Markdown 笔记软件进行阅读和二次加工。
